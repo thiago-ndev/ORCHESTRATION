@@ -1,0 +1,9 @@
+airflow_env/
+.env
+env/
+
+__pycache__/
+__pycache__
+
+logs/
+credentials.sh
