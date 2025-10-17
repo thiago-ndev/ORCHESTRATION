@@ -7,3 +7,9 @@ __pycache__
 
 logs/
 credentials.sh
+ANTIGO_requirements/airflow.db
+airflow.cfg
+dags/create_cluster_EMR.py
+ANTIGO_requirements/
+tmp_libs/
+.idea/
